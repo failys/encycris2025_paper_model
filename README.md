@@ -1,6 +1,6 @@
 # EnCyCriS 2025 paper model
 
-* encycris_paper_model.xml is the model corresponding with the worked example in Section 4.
+* data_distribution.xml is the model corresponding with the worked example in Section 4.
 
 * You can use the CAIRIS live demo (https://demo.cairis.org) to interact with this model.  You can either import the model from the standard test account (user: test@test.com / password: test). 
 
